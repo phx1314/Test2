@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 321,
+                        "startOffset": 360,
+                        "endColumn": 357,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 38,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 45,
+                        "startOffset": 84,
+                        "endColumn": 79,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 39,
+                    "endOffset": 170
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 560,
+                        "startOffset": 599,
+                        "endColumn": 595,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 175,
+                    "endColumn": 38,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 114,
+                        "startOffset": 153,
+                        "endColumn": 148,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 39,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 148,
+                        "startOffset": 187,
+                        "endColumn": 183,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 37,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 288,
+                        "startOffset": 327,
+                        "endColumn": 321,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endColumn": 36,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 528,
+                        "startOffset": 567,
+                        "endColumn": 560,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 38,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 11,
+                        "startOffset": 50,
+                        "endColumn": 45,
+                        "endOffset": 84
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 40,
+                    "endOffset": 404
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 183,
+                        "startOffset": 222,
+                        "endColumn": 219,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 409,
+                    "endColumn": 37,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 495,
+                        "startOffset": 534,
+                        "endColumn": 528,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 38,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 219,
+                        "startOffset": 258,
+                        "endColumn": 253,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 38,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 428,
+                        "startOffset": 467,
+                        "endColumn": 462,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 41,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 391,
+                        "startOffset": 430,
+                        "endColumn": 428,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 39,
+                    "endOffset": 602
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 79,
+                        "startOffset": 118,
+                        "endColumn": 114,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 607,
+                    "endColumn": 38,
+                    "endOffset": 641
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 357,
+                        "startOffset": 396,
+                        "endColumn": 391,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 646,
+                    "endColumn": 39,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 253,
+                        "startOffset": 292,
+                        "endColumn": 288,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 37,
+                    "endOffset": 719
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw720dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 462,
+                        "startOffset": 501,
+                        "endColumn": 495,
+                        "endOffset": 534
+                    }
+                }
+            }
+        ]
+    }
+]

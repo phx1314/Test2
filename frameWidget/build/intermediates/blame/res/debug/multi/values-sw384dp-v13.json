@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw384dp-v13\\values-sw384dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 332,
+                        "startOffset": 371,
+                        "endColumn": 372,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 38,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 45,
+                        "startOffset": 84,
+                        "endColumn": 79,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 43,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 581,
+                        "startOffset": 620,
+                        "endColumn": 620,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endColumn": 43,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 118,
+                        "startOffset": 157,
+                        "endColumn": 157,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 43,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 157,
+                        "startOffset": 196,
+                        "endColumn": 196,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 36,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 300,
+                        "startOffset": 339,
+                        "endColumn": 332,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 36,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 549,
+                        "startOffset": 588,
+                        "endColumn": 581,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 38,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 11,
+                        "startOffset": 50,
+                        "endColumn": 45,
+                        "endOffset": 84
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 40,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 196,
+                        "startOffset": 235,
+                        "endColumn": 232,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 42,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 511,
+                        "startOffset": 550,
+                        "endColumn": 549,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 38,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 232,
+                        "startOffset": 271,
+                        "endColumn": 266,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endColumn": 43,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 440,
+                        "startOffset": 479,
+                        "endColumn": 479,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 40,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 404,
+                        "startOffset": 443,
+                        "endColumn": 440,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 43,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 79,
+                        "startOffset": 118,
+                        "endColumn": 118,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 36,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 372,
+                        "startOffset": 411,
+                        "endColumn": 404,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 38,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 266,
+                        "startOffset": 305,
+                        "endColumn": 300,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 36,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\values-sw384dp\\dpdim.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 479,
+                        "startOffset": 518,
+                        "endColumn": 511,
+                        "endOffset": 550
+                    }
+                }
+            }
+        ]
+    }
+]

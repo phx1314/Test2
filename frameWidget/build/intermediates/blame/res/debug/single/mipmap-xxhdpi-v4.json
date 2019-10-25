@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\imageselector_select_photo.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\mipmap-xxhdpi-v4\\imageselector_select_photo.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\imageselector_selected.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\mipmap-xxhdpi-v4\\imageselector_selected.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\imageselector_select_checked.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\mipmap-xxhdpi-v4\\imageselector_select_checked.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\imageselector_select_uncheck.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\mipmap-xxhdpi-v4\\imageselector_select_uncheck.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\imageselector_back.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\mipmap-xxhdpi-v4\\imageselector_back.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\imageselector_select_album.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\mipmap-xxhdpi-v4\\imageselector_select_album.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\imageselector_photo.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\mipmap-xxhdpi-v4\\imageselector_photo.png"
+    }
+]

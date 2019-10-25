@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\global_arrow_white_back.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\global_arrow_white_back.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_yuan.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\shape_yuan.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\photoalbum_camera_choosed.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\photoalbum_camera_choosed.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background_pressed.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\global_arrow_white_back2.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\global_arrow_white_back2.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\click_nn.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\click_nn.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\pg.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\pg.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_select_picture_top_corners_no_selected.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\shape_select_picture_top_corners_no_selected.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_select_picture_all_corners.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\selector_select_picture_all_corners.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\global_img_default.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\global_img_default.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\global_backwhite_selector.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\global_backwhite_selector.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_select_picture_bottom_corners.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\selector_select_picture_bottom_corners.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_select_picture_dialog_bg.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\shape_select_picture_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_circular.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\progress_circular.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_common_corners_5dp_solid_transparent00.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\shape_common_corners_5dp_solid_transparent00.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_select_picture_bottom_corners_selected.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\shape_select_picture_bottom_corners_selected.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\global_textcolor_white_selector.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\global_textcolor_white_selector.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_select_uncheck.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\imageselector_select_uncheck.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_common_corners_5dp_solid_white.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\shape_common_corners_5dp_solid_white.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_select_picture_bottom_corners_no_selected.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\shape_select_picture_bottom_corners_no_selected.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_common_corners_5dp_solid_transparent2e.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\shape_common_corners_5dp_solid_transparent2e.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_select_picture_top_corners.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\selector_select_picture_top_corners.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_select_picture_top_corners_selected.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.github.wildma\\PictureSelector\\1.1.2\\res\\drawable\\shape_select_picture_top_corners_selected.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\global_icon_deletecross.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\global_icon_deletecross.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\imageselector_select_checked.png",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.jaikydota.imagespickers\\imagespickers\\1.0.6\\res\\drawable\\imageselector_select_checked.png"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\shape_gray.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\src\\main\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\AsWork\\AsWork\\Demo\\frameWidget\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]
